@@ -1,0 +1,12 @@
+{
+  "format": "file-integrity-baseline-v1",
+  "algorithm": "SHA-256",
+  "created_utc": "2026-11-26T06:21:14.879023+00:00",
+  "target": "C:\\Users\\admin\\OneDrive\\Desktop\\Coding\\.vscode\\hcl\\Project_14_File_Integrity_Verification\\sample_files",
+  "files": {
+    "notes.txt": {
+      "sha256": "d166c0132d94d03028d2e70cf4a53c12390207c42c2527f240421fd25583fc5c",
+      "size_bytes": 23
+    }
+  }
+}
